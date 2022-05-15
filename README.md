@@ -2,6 +2,7 @@
 该资源是作者在华为云撰写《从零到壹Python图像处理及识别》电子书的源代码，希望对大家有所帮助，且看且珍惜~
 
 - https://bbs.huaweicloud.com/blogs/336932
+- https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/CloudBook/huaweicloud.shuku03.Python.imagerecognition.pdf
 
 
 此书是作者十多年图像处理及识别编程经验的结晶，包含丰富真实的案例及详细的算法原理，采用Python3、OpenCV和Keras等库实现，通过图文结合、代码注释、实例详解的形式娓娓道来。希望这本电子书及开源的代码能帮助读者迅速入门，并让图像处理及识别领域的知识轮廓逐渐清晰。全书包括三部分内容，共48章。
